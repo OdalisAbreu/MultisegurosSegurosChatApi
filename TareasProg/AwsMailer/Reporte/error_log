@@ -1,0 +1,2 @@
+[29-Jun-2019 09:53:44 America/Denver] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/Reporte/ReporteVentasXCliente.php on line 6
+[29-Jun-2019 09:53:44 America/Denver] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/Reporte/ReporteVentasXCliente.php on line 6

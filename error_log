@@ -1,0 +1,123 @@
+[20-Nov-2017 08:26:10 America/Denver] PHP Fatal error:  Call to undefined function Auditoria() in /home/multiseguroscom/public_html/ws6_3_8/GET_Balance.php on line 55
+[20-Nov-2017 08:27:02 America/Denver] PHP Fatal error:  Call to undefined function Auditoria() in /home/multiseguroscom/public_html/ws6_3_8/GET_Balance.php on line 55
+[20-Nov-2017 08:27:35 America/Denver] PHP Fatal error:  Call to undefined function Auditoria() in /home/multiseguroscom/public_html/ws6_3_8/GET_Balance.php on line 55
+[01-Feb-2022 21:09:25 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[01-Feb-2022 22:40:38 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[01-Feb-2022 22:48:12 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[01-Feb-2022 22:49:24 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[01-Feb-2022 22:50:12 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[01-Feb-2022 22:56:07 America/Anguilla] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Client.php on line 34
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Aseguradora.php on line 15
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Aseguradora.php on line 15
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Aseguradora.php on line 17
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[07-Sep-2022 08:28:23 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_TiposVeh.php on line 15
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_TiposVeh.php on line 15
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_TiposVeh.php on line 16
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[11-Sep-2022 09:21:18 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[16-Sep-2022 15:14:47 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:14:47 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:14:47 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:14:47 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:14:47 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:21:03 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:21:03 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:21:03 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:21:03 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:21:03 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:25:58 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:25:58 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:25:58 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:25:58 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:25:58 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:27:51 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:27:51 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:27:51 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:27:51 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:27:51 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:29:46 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:29:46 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:29:46 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:29:46 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:29:46 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:32:39 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:32:39 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:32:39 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:32:39 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:32:39 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:34:41 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:34:41 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:34:41 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:34:41 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:34:41 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:37:28 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:37:28 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:37:28 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:37:28 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:37:28 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:40:57 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:40:57 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:40:57 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:40:57 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:40:57 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:44:39 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:44:39 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:44:39 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:44:39 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:44:39 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:48:33 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:48:33 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:48:33 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:48:33 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:48:33 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:53:51 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:53:51 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:53:51 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:53:51 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:53:51 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 15:58:35 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 15:58:35 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 15:58:35 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:58:35 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 15:58:35 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 16:00:58 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 16:00:58 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 16:00:58 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 16:00:58 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 16:00:58 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[16-Sep-2022 16:02:48 America/Anguilla] PHP Warning:  mysql_connect(): Connection timed out in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[16-Sep-2022 16:02:48 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[16-Sep-2022 16:02:48 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 16:02:48 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 15
+[16-Sep-2022 16:02:48 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Modelos.php on line 16
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 16
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[29-Aug-2023 16:37:34 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 16
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[29-Aug-2023 16:41:57 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 20
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/inc/conexion_inc.php on line 21
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 15
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/multiseguroscom/public_html/ws_dev/GET_Marcas.php on line 16
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[29-Aug-2023 16:55:36 America/Anguilla] PHP Warning:  mysql_query(): A link to the server could not be established in /home/multiseguroscom/public_html/ws_dev/inc/auditoria.balance.func.php on line 11
+[18-Oct-2024 17:11:29 America/Anguilla] PHP Fatal error:  Cannot redeclare GetPrefijo() (previously declared in /home/multiseguroscom/public_html/ws_dev/inc/config.php:89) in /home/multiseguroscom/public_html/ws_dev/inc/nombres.func.php on line 449

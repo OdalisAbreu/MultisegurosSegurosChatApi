@@ -1,0 +1,422 @@
+[29-Jun-2019 11:37:58 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 216
+[29-Jun-2019 11:38:24 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 216
+[29-Jun-2019 11:38:25 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 216
+[29-Jun-2019 11:39:40 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 193
+[29-Jun-2019 11:44:24 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 216
+[29-Jun-2019 11:44:58 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 218
+[29-Jun-2019 11:50:18 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 218
+[29-Jun-2019 12:08:05 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/Reporte/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 78
+[29-Jun-2019 12:09:27 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/Reporte/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 78
+[29-Jun-2019 12:09:50 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/Reporte/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 78
+[29-Jun-2019 12:17:50 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 91
+[29-Jun-2019 12:24:31 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 237
+[29-Jun-2019 12:29:47 America/Anguilla] PHP Warning:  file_get_contents(
+	http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 237
+[29-Jun-2019 12:39:24 America/Anguilla] PHP Warning:  file_get_contents(
+	http://multiseguros.com.do/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 237
+[29-Jun-2019 12:42:40 America/Anguilla] PHP Warning:  file_get_contents(
+	http://multiseguros.com.do/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 237
+[29-Jun-2019 12:42:40 America/Anguilla] PHP Warning:  include(Reporte/ReporteVentasXCliente.php
+	&lt;p&gt;
+		--------------------------------------------------------------------------------
+&lt;br /&gt;&lt;br /&gt;
+Este mensaje puede contener información privilegiada y confidencial. Dicha información es exclusivamente para el uso del individuo o entidad al cual es enviada. Si el lector de este mensaje no es el destinatario del mismo, queda formalmente notificado que cualquier divulgación, distribución, reproducción o copiado de esta comunicación está estrictamente prohibido. Si este es el caso, favor de eliminar el mensaje de su computadora e informar al emisor a través de un mensaje de respuesta. Las opiniones expresadas en este mensaje son propias del autor y no necesariamente coinciden con las de MultiSeguros.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Gracias.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ MultiSeguros
+ ): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 67
+[29-Jun-2019 12:42:40 America/Anguilla] PHP Warning:  include(): Failed opening 'Reporte/ReporteVentasXCliente.php
+	&lt;p&gt;
+		--------------------------------------------------------------------------------
+&lt;br /&gt;&lt;br /&gt;
+Este mensaje puede contener información privilegiada y confidencial. Dicha información es exclusivamente para el uso del individuo o entidad al cual es enviada. Si el lector de este mensaje no es el destinatario del mismo, queda formalmente notificado que cualquier divulgación, distribución, reproducción o copiado de esta comunicación está estrictamente prohibido. Si este es el caso, favor de eliminar el mensaje de su computadora e informar al emisor a través de un mensaje de respuesta. Las opiniones expresadas en este mensaje son propias del autor y no necesariamente coinciden con las de MultiSeguros.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Gracias.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ MultiSeguros
+ ' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 67
+[29-Jun-2019 13:12:37 America/Anguilla] PHP Warning:  file_get_contents(
+	http://multiseguros.com.do/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 237
+[29-Jun-2019 13:12:37 America/Anguilla] PHP Warning:  include(Reporte/ReporteVentasXCliente.php
+	&lt;p&gt;
+		--------------------------------------------------------------------------------
+&lt;br /&gt;&lt;br /&gt;
+Este mensaje puede contener información privilegiada y confidencial. Dicha información es exclusivamente para el uso del individuo o entidad al cual es enviada. Si el lector de este mensaje no es el destinatario del mismo, queda formalmente notificado que cualquier divulgación, distribución, reproducción o copiado de esta comunicación está estrictamente prohibido. Si este es el caso, favor de eliminar el mensaje de su computadora e informar al emisor a través de un mensaje de respuesta. Las opiniones expresadas en este mensaje son propias del autor y no necesariamente coinciden con las de MultiSeguros.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Gracias.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ MultiSeguros
+ ): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 67
+[29-Jun-2019 13:12:37 America/Anguilla] PHP Warning:  include(): Failed opening 'Reporte/ReporteVentasXCliente.php
+	&lt;p&gt;
+		--------------------------------------------------------------------------------
+&lt;br /&gt;&lt;br /&gt;
+Este mensaje puede contener información privilegiada y confidencial. Dicha información es exclusivamente para el uso del individuo o entidad al cual es enviada. Si el lector de este mensaje no es el destinatario del mismo, queda formalmente notificado que cualquier divulgación, distribución, reproducción o copiado de esta comunicación está estrictamente prohibido. Si este es el caso, favor de eliminar el mensaje de su computadora e informar al emisor a través de un mensaje de respuesta. Las opiniones expresadas en este mensaje son propias del autor y no necesariamente coinciden con las de MultiSeguros.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Gracias.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ MultiSeguros
+ ' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 67
+[29-Jun-2019 13:15:14 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 222
+[29-Jun-2019 13:19:56 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 222
+[29-Jun-2019 12:35:05 America/Denver] PHP Fatal error:  Cannot redeclare enviarEmailHtml() (previously declared in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php:32) in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 271
+[29-Jun-2019 14:37:14 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 85
+[29-Jun-2019 15:01:36 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 85
+[29-Jun-2019 15:08:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 84
+[29-Jun-2019 15:08:02 America/Anguilla] PHP Fatal error:  Class 'SMTP' not found in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.phpmailer.php on line 1303
+[29-Jun-2019 15:08:17 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 84
+[29-Jun-2019 15:08:17 America/Anguilla] PHP Fatal error:  Class 'SMTP' not found in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.phpmailer.php on line 1303
+[29-Jun-2019 15:08:39 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 85
+[29-Jun-2019 15:11:18 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 104
+[30-Jun-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Jul-2019 14:02:16 America/Anguilla] PHP Warning:  require(classmailer): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 109
+[01-Jul-2019 14:02:16 America/Anguilla] PHP Fatal error:  require(): Failed opening required 'classmailer' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 109
+[01-Jul-2019 14:11:52 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 105
+[01-Jul-2019 14:49:14 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 105
+[01-Jul-2019 14:58:08 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 244
+[01-Jul-2019 14:58:08 America/Anguilla] PHP Fatal error:  Cannot redeclare Ventas() (previously declared in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php:273) in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 82
+[01-Jul-2019 14:58:25 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 244
+[01-Jul-2019 15:00:21 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 244
+[01-Jul-2019 15:09:37 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 244
+[01-Jul-2019 15:10:03 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 246
+[01-Jul-2019 15:31:51 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 246
+[01-Jul-2019 15:34:44 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 220
+[01-Jul-2019 15:36:43 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 220
+[01-Jul-2019 19:41:43 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 220
+[02-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[03-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[04-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[05-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[05-Jul-2019 08:49:00 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 193
+[05-Jul-2019 09:56:47 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[05-Jul-2019 09:57:57 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 83
+[05-Jul-2019 09:58:21 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 83
+[05-Jul-2019 10:00:10 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 85
+[05-Jul-2019 10:07:08 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 85
+[05-Jul-2019 10:12:10 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 85
+[05-Jul-2019 10:15:23 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 85
+[05-Jul-2019 10:18:50 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteClientes.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[05-Jul-2019 10:19:19 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[05-Jul-2019 10:28:37 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[05-Jul-2019 10:29:42 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[05-Jul-2019 17:09:27 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 222
+[05-Jul-2019 17:09:38 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 222
+[05-Jul-2019 17:32:58 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 224
+[05-Jul-2019 17:32:59 America/Anguilla] PHP Fatal error:  Class 'SMTP' not found in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.phpmailer.php on line 1303
+[05-Jul-2019 17:33:24 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 224
+[05-Jul-2019 17:45:25 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 224
+[05-Jul-2019 17:45:25 America/Anguilla] PHP Fatal error:  Call to undefined method PHPMailer::Body() in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 211
+[05-Jul-2019 17:47:52 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 224
+[05-Jul-2019 17:47:53 America/Anguilla] PHP Fatal error:  Call to undefined method PHPMailer::Body() in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 211
+[05-Jul-2019 17:49:07 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 225
+[05-Jul-2019 22:01:18 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 226
+[05-Jul-2019 22:02:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 226
+[05-Jul-2019 22:10:57 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 129
+[05-Jul-2019 22:43:12 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1//ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 116
+[06-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[06-Jul-2019 07:36:07 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[06-Jul-2019 12:46:07 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[06-Jul-2019 12:51:14 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 193
+[06-Jul-2019 14:23:17 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 196
+[06-Jul-2019 14:24:08 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 197
+[06-Jul-2019 14:25:23 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 204
+[06-Jul-2019 14:25:36 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 204
+[06-Jul-2019 14:27:09 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 204
+[06-Jul-2019 14:34:51 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 204
+[06-Jul-2019 14:35:16 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasDetallado.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasDetallado.php on line 204
+[07-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[08-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[09-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[09-Jul-2019 14:45:49 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasAdmin.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasAdmin.php on line 86
+[10-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[10-Jul-2019 11:53:25 America/Anguilla] PHP Warning:  file_get_contents(https://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteVentasXCliente.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteVentasXCliente.php on line 116
+[11-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[12-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[13-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[14-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[15-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[16-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[17-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[18-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[19-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[20-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[21-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[22-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[23-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Jul-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[26-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[27-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[28-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[29-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[30-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[31-Jul-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[02-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[03-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[04-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[05-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[06-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[07-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[08-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[09-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[10-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[11-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[12-Aug-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[13-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[14-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[15-Aug-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[16-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[17-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[18-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[19-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[20-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[21-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[22-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[23-Aug-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[26-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[27-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[28-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[29-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[30-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[30-Aug-2019 11:16:31 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteRemesas.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteRemesas.php on line 116
+[30-Aug-2019 11:17:42 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteRemesas.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteRemesas.php on line 116
+[30-Aug-2019 11:18:12 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteRemesas.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteRemesas.php on line 116
+[31-Aug-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[02-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[03-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[04-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[05-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[06-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[07-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[08-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[09-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[10-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[11-Sep-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[12-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[13-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[14-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[15-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[16-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[17-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[18-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[19-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[20-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[21-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[22-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[23-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Sep-2019 04:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Sep-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[26-Sep-2019 04:00:02 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[26-Sep-2019 07:00:03 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Oct-2019 04:00:06 America/Anguilla] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Oct-2019 04:00:06 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: no suitable wrapper could be found in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Oct-2019 07:00:01 America/Anguilla] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Oct-2019 07:00:01 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: no suitable wrapper could be found in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[01-Oct-2019 07:00:01 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[24-Oct-2019 19:13:55 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Oct-2019 19:13:55 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[24-Oct-2019 19:15:48 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Oct-2019 19:15:48 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[24-Oct-2019 19:18:57 America/Anguilla] PHP Warning:  file_get_contents(http://127.0.0.1/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Oct-2019 19:18:57 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[24-Oct-2019 19:20:20 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Oct-2019 19:20:20 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[24-Oct-2019 19:35:51 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[24-Oct-2019 19:35:51 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[25-Oct-2019 19:26:02 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Oct-2019 19:26:02 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[25-Oct-2019 19:54:09 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Oct-2019 19:54:09 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[25-Oct-2019 19:55:16 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Oct-2019 19:55:16 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[25-Oct-2019 19:59:25 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Oct-2019 19:59:25 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
+[25-Oct-2019 20:00:25 America/Anguilla] PHP Warning:  file_get_contents(/home/multiseguroscom/public_html/ws2/TareasProg/AwsMailer/ReporteAseguradora.php): failed to open stream: No such file or directory in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/ReporteAseguradora.php on line 115
+[25-Oct-2019 20:00:25 America/Anguilla] PHP Warning:  stream_socket_enable_crypto(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:SSL3_GET_RECORD:wrong version number in /home/multiseguroscom/public_html/ws6_3_8/TareasProg/AwsMailer/class.smtp.php on line 344
