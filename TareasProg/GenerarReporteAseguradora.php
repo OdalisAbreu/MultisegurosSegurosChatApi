@@ -229,9 +229,14 @@ function Ventas($id)
         <td>RC</td>
         <td>RC2</td>
         <td>FJ</td>
-		<td>Cod. Confirmaci&oacute;n</td>
-		<td>Casa del Conductor</td>
-		<td>Asistencia Vial (Grua)</td>
+		<td>Cod. Confirmaci&oacute;n</td>';
+	if ($dist_id == '5' or $dist_id == '07') {
+		$html .= '<td>Centro Del Automovilista</td>';
+	} else {
+		$html .= '<td>Casa del Conductor</td>';
+	}
+
+	$html .= '<td>Asistencia Vial (Grua)</td>
 		<td>Accidentes Personales</td>
 		<td>Plan Premium</td>
 		<td>Ultimos Gastos</td>
@@ -485,8 +490,11 @@ while ($aseguradoraRow = mysql_fetch_array($aseguradorasQuery)) {
 function MontoPorServ($vigencia_poliza, $serv_adc)
 {
 	$Servicios =  array(
-		'casaConductor' => 0, 'asistenciaVial' => 0,
-		'accidentesPersonales' => 0, 'planPremium' => 0, 'ultimosGastos' => 0
+		'casaConductor' => 0,
+		'asistenciaVial' => 0,
+		'accidentesPersonales' => 0,
+		'planPremium' => 0,
+		'ultimosGastos' => 0
 	);
 
 	if ($vigencia_poliza == 3) {
@@ -511,19 +519,19 @@ function MontoPorServ($vigencia_poliza, $serv_adc)
 		);
 		$rprec2 = mysql_fetch_array($qprec2);
 
-		if ($rprec2['id'] == 116 or $rprec2['id'] == 118) {
+		if ($rprec2['id'] == 116 or $rprec2['id'] == 118 or $rprec2['id'] == 126) {
 			$Servicios['casaConductor'] = $rprec2[$vigencia];
 		}
-		if ($rprec2['id'] == 101 or $rprec2['id'] == 119) {
+		if ($rprec2['id'] == 101 or $rprec2['id'] == 119 or $rprec2['id'] == 123) {
 			$Servicios['asistenciaVial'] = $rprec2[$vigencia];
 		}
-		if ($rprec2['id'] == 107 or $rprec2['id'] == 122) {
+		if ($rprec2['id'] == 107 or $rprec2['id'] == 122 or $rprec2['id'] == 124) {
 			$Servicios['accidentesPersonales'] = $rprec2[$vigencia];
 		}
 		if ($rprec2['id'] == 113 or $rprec2['id'] == 120) {
 			$Servicios['planPremium'] = $rprec2[$vigencia];
 		}
-		if ($rprec2['id'] == 108 or $rprec2['id'] == 121) {
+		if ($rprec2['id'] == 108 or $rprec2['id'] == 121 or $rprec2['id'] == 125) {
 			$Servicios['ultimosGastos'] = $rprec2[$vigencia];
 		}
 	}
