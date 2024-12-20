@@ -223,14 +223,18 @@ function Ventas($id)
         <td>Placa</td>
         <td>Fecha Emisi&oacute;n</td>
         <td>Inicio Vigencia</td>
-        <td>Fin Vigencia</td>
+        <td>Fin Vigencia</td>';
+	if ($dist_id == '6') {
+		$html .= '<td>Uso</td>';
+	}
+	$html .= '
         <td>DPA</td>
 		<td>AP</td>
         <td>RC</td>
         <td>RC2</td>
         <td>FJ</td>
 		<td>Cod. Confirmaci&oacute;n</td>';
-	if ($dist_id == '5' or $dist_id == '07') {
+	if ($dist_id == '5' || $dist_id == '7') {
 		$html .= '<td>Centro Del Automovilista</td>';
 	} else {
 		$html .= '<td>Casa del Conductor</td>';
@@ -296,11 +300,19 @@ function Ventas($id)
 		}*/
 
 			$dd = explode("|", VerVariable($u['serv_adc']));
-			$dpa_1 = $dd[0];
-			$ap_1 = $dd[1];
-			$rc_1 = $dd[2];
-			$rc2_1 = $dd[3];
-			$fj_1 = $dd[4];
+			if ($dist_id == '6' || $dist_id == '7' || $dist_id == '8') {
+				$dpa_1 = '500000';
+				$ap_1 = '500000';
+				$rc_1 = '500000';
+				$rc2_1 = '1000000';
+				$fj_1 = '1000000';
+			} else {
+				$dpa_1 = $dd[0];
+				$ap_1 = $dd[1];
+				$rc_1 = $dd[2];
+				$rc2_1 = $dd[3];
+				$fj_1 = $dd[4];
+			}
 
 			if ($dpa_1 > 0) {
 				$dpa = substr(formatDinero($dpa_1), 0, -3);
@@ -405,7 +417,11 @@ function Ventas($id)
 				'</td>
         <td align="right">' .
 				FechaReporte($u['fecha_fin']) .
-				'</td>
+				'</td>';
+			if ($dist_id == '6') {
+				$html .= '<td>Privado</td>';
+			}
+			$html .= '		
         <td>' . $dpa . '</td>
         <td>' . $ap . '</td>
         <td>' . $rc . '</td>
