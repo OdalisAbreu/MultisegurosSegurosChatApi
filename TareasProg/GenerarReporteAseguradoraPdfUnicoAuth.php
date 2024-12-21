@@ -47,6 +47,10 @@ switch ($id_aseguradora) {
     $NombreImg = "sura.png";
     $contacto = '809-985-5000 opc. 2';
     break;
+  case '6':
+    $NombreImg = "Logo-HumanoSeguros.png";
+    $contacto = '809-476-3535';
+    break;
   case '8':
     $NombreImg = "atrio.png";
     $contacto = '829 547 5777';
