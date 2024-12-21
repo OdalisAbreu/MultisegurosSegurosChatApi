@@ -256,6 +256,8 @@ function SolicitarSeguro($conf)
 				$id_poliz = GetTransID_sura_p($conf['user_id']);
 			} elseif ($_REQUEST['id_aseg'] == '8') {
 				$id_poliz = GetTransID_one_alliance_p($conf['user_id']);
+			} elseif ($_REQUEST['id_aseg'] == '6') {
+				$id_poliz = GetTransID_ATRIO($conf['user_id']);
 			}
 
 			$conf['id_aseg'] = $_REQUEST['id_aseg'];
